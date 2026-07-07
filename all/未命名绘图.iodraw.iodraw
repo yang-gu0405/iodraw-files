@@ -106,46 +106,46 @@
         <mxCell id="WvOhGGkS_b-kicVOlz0p-29" value="解析SEI 锁定目标" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="350" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-32" value="背景流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="144" y="-10" width="77" height="49" as="geometry" />
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-44" value="背景流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="154" width="77" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-33" value="目标流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="339" y="-10" width="81" height="49" as="geometry" />
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-45" value="目标流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="349" width="81" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-34" value="通道1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="127" y="112" width="111" height="51" as="geometry" />
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-46" value="通道1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="137" y="122" width="111" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-35" value="通道2" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="324" y="112" width="111" height="51" as="geometry" />
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-47" value="通道2" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="334" y="122" width="111" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-36" value="背景流队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="110" y="213" width="145" height="49" as="geometry" />
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-48" value="背景流队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="120" y="223" width="145" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-37" value="目标流队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="305" y="213" width="149" height="49" as="geometry" />
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-49" value="目标流队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="315" y="223" width="149" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-38" value="1080P 低码率流" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-32" target="WvOhGGkS_b-kicVOlz0p-34">
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-50" value="1080P 低码率流" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-44" target="WvOhGGkS_b-kicVOlz0p-46">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-39" value="1080P 高码率流 + SEI" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-33" target="WvOhGGkS_b-kicVOlz0p-35">
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-51" value="1080P 高码率流 + SEI" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-45" target="WvOhGGkS_b-kicVOlz0p-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-34" target="WvOhGGkS_b-kicVOlz0p-36">
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-46" target="WvOhGGkS_b-kicVOlz0p-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-35" target="WvOhGGkS_b-kicVOlz0p-37">
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-47" target="WvOhGGkS_b-kicVOlz0p-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-42" value="&lt;span style=&quot;white-space: normal;&quot;&gt;缓冲队列&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="235" y="58" width="70" height="30" as="geometry" />
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-54" value="&lt;span style=&quot;white-space: normal;&quot;&gt;缓冲队列&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="68" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
