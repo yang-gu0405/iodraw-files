@@ -1,14 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Ydn3yh5LknfutULExKt0">
-    <mxGraphModel dx="1489" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2084" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XnWyaHZtzJU4fKijMDOg-1" value="接收端 (X86)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="888" width="425" height="479" as="geometry" />
-        </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-2" value="信道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="59" y="349" width="336" height="466" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-3" value="发射端 (RK3588)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="415" y="20" width="449" height="671" as="geometry" />
@@ -33,9 +30,6 @@
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-10" value="推流-高码率流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="665" y="617" width="162" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-11" value="信道质量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="374" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-12" value="无线通信信道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="154" y="741" width="156" height="49" as="geometry" />
@@ -82,13 +76,6 @@
             <Array as="points">
               <mxPoint x="794" y="203" />
               <mxPoint x="794" y="349" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-23" value="信道质量决定码率" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.33;rounded=0;" edge="1" parent="1" source="XnWyaHZtzJU4fKijMDOg-11" target="XnWyaHZtzJU4fKijMDOg-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="222" y="459" />
             </Array>
           </mxGeometry>
         </mxCell>
