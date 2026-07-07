@@ -104,7 +104,7 @@
           <mxGeometry x="425" y="667" width="120" height="53" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-29" value="解析SEI 锁定目标" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="386" width="120" height="30" as="geometry" />
+          <mxGeometry x="280" y="336" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
