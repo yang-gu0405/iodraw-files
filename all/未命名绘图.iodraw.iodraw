@@ -13,7 +13,7 @@
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-2" value="&lt;b&gt;2. AI 视觉处理与总线&lt;/b&gt;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="207" y="824" width="379" height="306" as="geometry" />
         </mxCell>
-        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-3" value="&lt;b&gt;1. 媒体源输入与解码&lt;/b&gt;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="453" y="410" width="262" height="260" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-4" value="多态媒体源&#xa;USB/RTSP" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
