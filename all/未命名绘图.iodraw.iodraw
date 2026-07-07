@@ -111,6 +111,9 @@
         <mxCell id="WvOhGGkS_b-kicVOlz0p-58" value="理想信道:&#xa;全高清推流" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="400" y="-370" width="253.75" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-59" value="背景流" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="144" y="-10" width="77" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
