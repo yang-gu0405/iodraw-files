@@ -89,8 +89,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-48" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="515" y="818" width="50" height="30" as="geometry" />
+        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-48" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;模型切换&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="813" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
