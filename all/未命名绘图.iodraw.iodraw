@@ -13,9 +13,6 @@
         <mxCell id="XnWyaHZtzJU4fKijMDOg-38" value="&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontStyle=3" vertex="1" parent="1">
           <mxGeometry x="160" y="142" width="340" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-39" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-128" width="230" height="215" as="geometry" />
-        </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-40" value="多态媒体源&#xa;USB/RTSP" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="190" y="-113" width="170" height="80" as="geometry" />
         </mxCell>
