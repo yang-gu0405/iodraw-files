@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-0" value="自适应编码推流" style="whiteSpace=wrap;strokeWidth=2;horizontal=1;verticalAlign=top;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="1270" width="604" height="220" as="geometry" />
+          <mxGeometry x="190" y="1300" width="604" height="220" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-1" value="差异化编码" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=right;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="980" width="350" height="270" as="geometry" />
