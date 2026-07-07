@@ -16,7 +16,7 @@
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="500" width="230" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-4" value="多态媒体源&#xa;USB/RTSP" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-4" value="多态媒体源&#xa;USB/RTSP" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="515" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-5" value="硬件加速解码&#xa;RK3588/昇腾" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
