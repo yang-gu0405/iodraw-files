@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1489" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2084" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -25,8 +25,8 @@
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-7" value="AI 目标检测&#xa;与追踪" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="870" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-8" value="IPC&#xa;控制中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="567" y="980" width="148" height="80" as="geometry" />
+        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-8" value="IPC&#xa;控制中心" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="567" y="980" width="148" height="270" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-9" value="ROI 提取&#xa;与重构" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="232.5" y="1010" width="144" height="80" as="geometry" />
