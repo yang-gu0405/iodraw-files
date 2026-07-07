@@ -92,7 +92,7 @@
           <mxGeometry x="540" y="860" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-51" value="全高清推流" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="1330" width="157.5" height="60" as="geometry" />
+          <mxGeometry x="500" y="1330" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
