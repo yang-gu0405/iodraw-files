@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-44" value="IPC&#xa;控制中心" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="585" y="200" width="148" height="112" as="geometry" />
+          <mxGeometry x="585" y="160" width="148" height="152" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XnWyaHZtzJU4fKijMDOg-47" target="XnWyaHZtzJU4fKijMDOg-50">
           <mxGeometry relative="1" as="geometry" />
@@ -178,6 +178,9 @@
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-101" value="推理后端完成同步" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="158" y="232" width="342" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-110" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="88" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
