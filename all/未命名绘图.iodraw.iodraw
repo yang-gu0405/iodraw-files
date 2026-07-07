@@ -123,6 +123,9 @@
         <mxCell id="WvOhGGkS_b-kicVOlz0p-65" value="中度弱网" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="496.5" y="-150" width="132" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-66" value="中度弱网" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="693.5" y="-150" width="132" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
