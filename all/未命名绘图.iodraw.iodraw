@@ -46,8 +46,8 @@
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-11" value="低保真背景&#xa;通道" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="1120" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-12" value="良好信道：全高清推流" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="286.25" y="1330" width="157.5" height="60" as="geometry" />
+        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-12" value="良好信道:全高清推流" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="1330" width="213.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V2Ob9PGhF1YmmIlqd_Ju-4" target="V2Ob9PGhF1YmmIlqd_Ju-5">
           <mxGeometry relative="1" as="geometry">
