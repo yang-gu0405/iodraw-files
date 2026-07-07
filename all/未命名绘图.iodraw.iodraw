@@ -38,7 +38,7 @@
           <mxGeometry x="211" y="667" width="120" height="53" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-13" value="解析SEI 锁定目标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="634" y="-20" width="182" height="49" as="geometry" />
+          <mxGeometry x="520" y="-20" width="182" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-14" value="零拷贝贴合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="865" y="-20" width="140" height="49" as="geometry" />
