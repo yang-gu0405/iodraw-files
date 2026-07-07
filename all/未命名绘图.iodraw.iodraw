@@ -8,7 +8,7 @@
           <mxGeometry x="197" y="1537" width="518" height="130" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-1" value="差异化编码" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=right;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="1000" width="350" height="250" as="geometry" />
+          <mxGeometry x="190" y="980" width="350" height="270" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-2" value="&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontStyle=3" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="747" width="350" height="213" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="380" y="870" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-8" value="IPC&#xa;控制中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="621" y="860" width="148" height="80" as="geometry" />
+          <mxGeometry x="567" y="980" width="148" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-9" value="ROI 提取&#xa;与重构" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="232.5" y="1010" width="144" height="80" as="geometry" />
