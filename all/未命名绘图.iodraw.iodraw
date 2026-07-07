@@ -19,8 +19,8 @@
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-4" value="多态媒体源&#xa;USB/RTSP" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="515" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-5" value="硬件加速解码&#xa;RK3588/昇腾" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="209" y="645" width="192" height="80" as="geometry" />
+        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-5" value="硬件加速解码&#xa;RK3588/昇腾" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="208.5" y="620" width="192" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-6" value="零拷贝图像&#xa;软总线" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="242" y="849" width="125" height="102" as="geometry" />
