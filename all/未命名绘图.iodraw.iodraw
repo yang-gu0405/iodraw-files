@@ -45,7 +45,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-16" value="1080P 高码率流 + SEI" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=20;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-2" target="WvOhGGkS_b-kicVOlz0p-4">
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-16" value="高码率流 + SEI" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=20;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-2" target="WvOhGGkS_b-kicVOlz0p-4">
           <mxGeometry x="0.0176" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint as="offset" />
@@ -59,20 +59,6 @@
         <mxCell id="WvOhGGkS_b-kicVOlz0p-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-4" target="WvOhGGkS_b-kicVOlz0p-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.12;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-5" target="WvOhGGkS_b-kicVOlz0p-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="172" y="277" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.87;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-6" target="WvOhGGkS_b-kicVOlz0p-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="369" y="277" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-7" target="WvOhGGkS_b-kicVOlz0p-8">
