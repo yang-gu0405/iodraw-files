@@ -100,6 +100,9 @@
         <mxCell id="WvOhGGkS_b-kicVOlz0p-25" value="&lt;span style=&quot;white-space: normal;&quot;&gt;缓冲队列&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="225" y="48" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-26" value="推流-&gt;接收站" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="425" y="667" width="120" height="53" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
