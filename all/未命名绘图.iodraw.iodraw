@@ -137,8 +137,8 @@
         <mxCell id="XnWyaHZtzJU4fKijMDOg-125" value="初始化获取图像" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="1170" y="-140" width="339" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-126" value="三级策略+报文出路i" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="205" y="898" width="130" height="30" as="geometry" />
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-126" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;三级策略+报文处理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="888" width="280" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
