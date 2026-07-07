@@ -191,8 +191,8 @@
         <mxCell id="XnWyaHZtzJU4fKijMDOg-112" value="无线信道" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="840" y="160" width="148" height="152" as="geometry" />
         </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-114" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="685" y="398" width="50" height="30" as="geometry" />
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-114" value="udp探针测试" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="665" y="398" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
