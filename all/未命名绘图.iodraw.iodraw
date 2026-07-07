@@ -134,6 +134,9 @@
         <mxCell id="XnWyaHZtzJU4fKijMDOg-124" value="融合同步" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="1202.5" y="382" width="208" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-125" value="初始化获取图像" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="171" y="-140" width="339" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
