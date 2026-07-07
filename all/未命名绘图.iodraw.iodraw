@@ -22,6 +22,9 @@
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-5" value="硬件加速解码&#xa;RK3588/昇腾" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="208.5" y="620" width="192" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V2Ob9PGhF1YmmIlqd_Ju-7" target="V2Ob9PGhF1YmmIlqd_Ju-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-7" value="AI 目标检测&#xa;与追踪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="369" y="900" width="174" height="80" as="geometry" />
         </mxCell>
@@ -105,6 +108,9 @@
               <mxPoint x="340" y="700" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-29" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="416" y="750" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
