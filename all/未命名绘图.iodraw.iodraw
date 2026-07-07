@@ -29,7 +29,7 @@
           <mxGeometry x="621" y="860" width="148" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-9" value="ROI 提取&#xa;与重构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="1229" width="144" height="80" as="geometry" />
+          <mxGeometry x="232.5" y="1010" width="144" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-10" value="高清目标&#xa;通道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="415" y="1359" width="148" height="80" as="geometry" />
