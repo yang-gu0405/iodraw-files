@@ -39,7 +39,7 @@
         <mxCell id="WvOhGGkS_b-kicVOlz0p-10" value="超分融合操作" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="400.5" y="390" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-11" value="前端显示输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-11" value="前端显示输出" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="329" y="480" width="120" height="53" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-13" value="解析SEI 锁定目标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -75,7 +75,7 @@
           <mxGeometry x="231" y="112.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-26" value="推流-&gt;接收站" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="632" y="565" width="120" height="53" as="geometry" />
+          <mxGeometry x="498" y="480" width="120" height="53" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;解析SEI 锁定目标&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="205" y="210" width="180" height="40" as="geometry" />
