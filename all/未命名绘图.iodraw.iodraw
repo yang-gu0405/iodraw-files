@@ -161,6 +161,9 @@
         <mxCell id="XnWyaHZtzJU4fKijMDOg-99" value="初始化获取图像" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="161" y="-150" width="339" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-100" value="预加载" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="158" y="132" width="342" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
