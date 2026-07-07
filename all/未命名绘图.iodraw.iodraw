@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Ydn3yh5LknfutULExKt0">
-    <mxGraphModel dx="2977" dy="2789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4631" dy="2789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="799" y="-280" width="251" height="1330" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-116" value="发送端" style="whiteSpace=wrap;strokeWidth=2;fontSize=50;verticalAlign=top;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="29" y="-280" width="770" height="1330" as="geometry" />
+          <mxGeometry x="-1580" y="-310" width="770" height="1330" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XnWyaHZtzJU4fKijMDOg-36" target="XnWyaHZtzJU4fKijMDOg-112">
           <mxGeometry relative="1" as="geometry">
@@ -135,7 +135,7 @@
           <mxGeometry x="1202.5" y="382" width="208" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-125" value="初始化获取图像" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="171" y="-140" width="339" height="80" as="geometry" />
+          <mxGeometry x="1170" y="-140" width="339" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
