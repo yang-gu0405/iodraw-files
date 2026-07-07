@@ -31,9 +31,6 @@
         <mxCell id="XnWyaHZtzJU4fKijMDOg-10" value="推流-高码率流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="665" y="617" width="162" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-12" value="无线通信信道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="154" y="741" width="156" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-13" value="解码-低码率流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="248" y="1012" width="162" height="49" as="geometry" />
         </mxCell>
@@ -98,34 +95,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.17;entryY=0;rounded=0;" edge="1" parent="1" source="XnWyaHZtzJU4fKijMDOg-9" target="XnWyaHZtzJU4fKijMDOg-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="534" y="691" />
-              <mxPoint x="126" y="716" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.81;entryY=0;rounded=0;" edge="1" parent="1" source="XnWyaHZtzJU4fKijMDOg-10" target="XnWyaHZtzJU4fKijMDOg-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="746" y="691" />
-              <mxPoint x="329" y="716" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-29" value="视频数据流A" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XnWyaHZtzJU4fKijMDOg-12" target="XnWyaHZtzJU4fKijMDOg-13">
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-29" value="视频数据流A" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="XnWyaHZtzJU4fKijMDOg-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="329" y="815" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-30" value="视频数据流B" style="curved=1;startArrow=none;endArrow=block;exitX=0.2;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="XnWyaHZtzJU4fKijMDOg-12" target="XnWyaHZtzJU4fKijMDOg-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="136" y="815" />
-            </Array>
+            <mxPoint x="280.3600000000001" y="790" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XnWyaHZtzJU4fKijMDOg-14" target="XnWyaHZtzJU4fKijMDOg-15">
