@@ -16,7 +16,7 @@
         <mxCell id="WvOhGGkS_b-kicVOlz0p-4" value="VideoIngest&#xa;(Channel 1)" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="314" y="102" width="111" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-5" value="q_bk Queue" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-5" value="背景流队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="203" width="145" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-6" value="q_tgt Queue" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
