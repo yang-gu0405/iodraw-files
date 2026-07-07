@@ -100,16 +100,16 @@
           <mxGeometry x="615" y="48" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-55" value="理想信道:&#xa;全高清推流" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1310" width="253.75" height="80" as="geometry" />
+          <mxGeometry x="130" y="-460" width="253.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-56" value="轻度弱网:&#xa;背景模糊、目标高清" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1310" width="250" height="80" as="geometry" />
+          <mxGeometry x="400" y="-460" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-57" value="中度弱网:&#xa;高清目标图像传输" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1400" width="253.75" height="80" as="geometry" />
+          <mxGeometry x="130" y="-370" width="253.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-58" value="理想信道:&#xa;全高清推流" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1400" width="253.75" height="80" as="geometry" />
+          <mxGeometry x="400" y="-370" width="253.75" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
