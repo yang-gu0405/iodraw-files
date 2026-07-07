@@ -46,7 +46,7 @@
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-11" value="低保真&#xa;背景" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="1120" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-12" value="完好信道:全高清推流" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-12" value="理想信道:全高清推流" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="1330" width="213.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V2Ob9PGhF1YmmIlqd_Ju-4" target="V2Ob9PGhF1YmmIlqd_Ju-5">
