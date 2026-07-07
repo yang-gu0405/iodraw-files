@@ -91,9 +91,9 @@
           <mxGeometry x="487" y="438" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-44" value="清晰目标图片" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="507" y="-20" width="143" height="49" as="geometry" />
+          <mxGeometry x="492" y="-20" width="143" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-45" value="目标流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-45" value="json报文" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="719" y="-20" width="81" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-46" value="通道1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
