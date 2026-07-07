@@ -10,7 +10,7 @@
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-1" value="&lt;b&gt;3. 差异化分区编码&lt;/b&gt;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1204" width="438" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-2" value="&lt;b&gt;2. AI 视觉处理与总线&lt;/b&gt;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-2" value="&lt;b&gt;2. AI 视觉处理与总线&lt;/b&gt;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="189.5" y="740" width="379" height="306" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -116,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-25" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;零拷贝&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;软总线&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="224" y="760" width="175" height="100" as="geometry" />
+          <mxGeometry x="226.5" y="800" width="156" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
