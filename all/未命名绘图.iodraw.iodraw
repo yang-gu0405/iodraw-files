@@ -37,10 +37,10 @@
           <mxGeometry x="408.5" y="330" width="140" height="34" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-10" value="超分融合操作" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="400.5" y="410" width="156" height="49" as="geometry" />
+          <mxGeometry x="400.5" y="390" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-11" value="前端显示输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="425" y="532" width="120" height="53" as="geometry" />
+          <mxGeometry x="329" y="480" width="120" height="53" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-13" value="解析SEI 锁定目标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-460" y="-10" width="182" height="49" as="geometry" />
