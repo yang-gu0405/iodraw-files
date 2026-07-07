@@ -23,7 +23,7 @@
           <mxGeometry x="405" y="270" width="146" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-9" value="融合队列" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="408" y="360" width="140" height="34" as="geometry" />
+          <mxGeometry x="408" y="350" width="140" height="34" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-10" value="超分融合操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="400" y="466" width="156" height="49" as="geometry" />
