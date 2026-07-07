@@ -14,7 +14,7 @@
           <mxGeometry x="189.5" y="740" width="379" height="306" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="440" width="230" height="275" as="geometry" />
+          <mxGeometry x="190" y="500" width="230" height="215" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-4" value="多态媒体源&#xa;USB/RTSP" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="515" width="170" height="80" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="208.5" y="620" width="192" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-6" value="零拷贝图像&#xa;软总线" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="208.5" y="800" width="125" height="102" as="geometry" />
+          <mxGeometry x="208.5" y="758" width="125" height="102" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-7" value="AI 目标检测&#xa;与追踪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="377" y="1025" width="174" height="80" as="geometry" />
