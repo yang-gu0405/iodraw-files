@@ -99,7 +99,7 @@
         <mxCell id="WvOhGGkS_b-kicVOlz0p-46" value="图片通道" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="507" y="102" width="111" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-47" value="报文通道" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-47" value="报文通道" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="704" y="102" width="111" height="51" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-48" value="背景流队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
