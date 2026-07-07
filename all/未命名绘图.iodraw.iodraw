@@ -154,7 +154,10 @@
           <mxGeometry x="161" y="-150" width="339" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-100" value="分类检测/单目标/多目标跟踪" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="158" y="132" width="342" height="80" as="geometry" />
+          <mxGeometry x="158" y="110" width="342" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-101" value="分类检测/单目标/多目标跟踪" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="168" y="120" width="342" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
