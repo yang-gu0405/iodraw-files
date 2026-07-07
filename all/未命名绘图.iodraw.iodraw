@@ -13,7 +13,7 @@
         <mxCell id="XnWyaHZtzJU4fKijMDOg-38" value="&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontStyle=3" vertex="1" parent="1">
           <mxGeometry x="160" y="142" width="340" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-41" value="开始预加载" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-41" value="预加载" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="178.5" y="-8" width="192" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-42" value="目标检测&#xa;单/多跟踪" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
@@ -186,6 +186,9 @@
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-96" value="中度弱网" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1245" y="-110" width="132" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-99" value="预加载" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="188.5" y="2" width="192" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
