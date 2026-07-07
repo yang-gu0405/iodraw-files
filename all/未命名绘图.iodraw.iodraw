@@ -11,7 +11,7 @@
           <mxGeometry x="160" y="1204" width="438" height="260" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-2" value="&lt;b&gt;2. AI 视觉处理与总线&lt;/b&gt;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="189.5" y="747" width="379" height="306" as="geometry" />
+          <mxGeometry x="189.5" y="740" width="379" height="306" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="480" width="230" height="235" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="208.5" y="620" width="192" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-6" value="零拷贝图像&#xa;软总线" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="242" y="849" width="125" height="102" as="geometry" />
+          <mxGeometry x="208.5" y="800" width="125" height="102" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-7" value="AI 目标检测&#xa;与追踪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="377" y="1025" width="174" height="80" as="geometry" />
