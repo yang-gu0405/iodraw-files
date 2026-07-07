@@ -103,11 +103,6 @@
         <mxCell id="XnWyaHZtzJU4fKijMDOg-64" value="目标流" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1076.5" width="81" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;" edge="1" parent="1" target="XnWyaHZtzJU4fKijMDOg-69">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="920" y="173" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;" edge="1" parent="1" source="XnWyaHZtzJU4fKijMDOg-68" target="XnWyaHZtzJU4fKijMDOg-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -140,13 +135,6 @@
         <mxCell id="XnWyaHZtzJU4fKijMDOg-75" value="前端显示输出" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="1017.5" y="500" width="179" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-76" value="低码率流" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=20;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="920" y="49" as="sourcePoint" />
-            <mxPoint x="920" y="122" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-77" value="高码率流 + SEI" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=20;" edge="1" parent="1" source="XnWyaHZtzJU4fKijMDOg-64" target="XnWyaHZtzJU4fKijMDOg-68">
           <mxGeometry x="0.0176" relative="1" as="geometry">
             <Array as="points" />
@@ -167,9 +155,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-81" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;缓冲队列&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="978.5" y="132.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-82" value="推流-&gt;接收站" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="1245.5" y="500" width="172" height="53" as="geometry" />
@@ -201,18 +186,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-91" value="固定格式报文" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=20;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1507" y="49" as="sourcePoint" />
-            <mxPoint x="1507" y="122" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;" edge="1" parent="1" source="XnWyaHZtzJU4fKijMDOg-94">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="920" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;" edge="1" parent="1" source="XnWyaHZtzJU4fKijMDOg-94" target="XnWyaHZtzJU4fKijMDOg-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -224,12 +197,6 @@
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-96" value="中度弱网" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1245" y="-110" width="132" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1507" y="-40" as="sourcePoint" />
-            <mxPoint x="1507" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
