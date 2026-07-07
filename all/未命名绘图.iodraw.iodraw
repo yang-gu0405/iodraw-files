@@ -111,11 +111,11 @@
         <mxCell id="WvOhGGkS_b-kicVOlz0p-58" value="理想信道:&#xa;全高清推流" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="400" y="-370" width="253.75" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-59" target="WvOhGGkS_b-kicVOlz0p-1">
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-2" target="WvOhGGkS_b-kicVOlz0p-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-59" value="理想信道&#xa;轻度弱网" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="228" y="-130" width="116" height="49" as="geometry" />
+          <mxGeometry x="228" y="-160" width="132" height="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
