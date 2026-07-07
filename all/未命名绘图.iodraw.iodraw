@@ -47,7 +47,12 @@
           <mxGeometry x="390" y="1120" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V2Ob9PGhF1YmmIlqd_Ju-11" target="V2Ob9PGhF1YmmIlqd_Ju-0">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="305" y="1235" />
+              <mxPoint x="492" y="1235" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-11" value="低保真&#xa;背景" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="1120" width="150" height="80" as="geometry" />
