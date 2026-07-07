@@ -10,7 +10,7 @@
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-1" value="&lt;b&gt;3. 差异化分区编码&lt;/b&gt;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1204" width="438" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-2" value="&lt;b&gt;2. AI 视觉处理与总线&lt;/b&gt;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-2" value="视觉处理与总线&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="189.5" y="740" width="379" height="306" as="geometry" />
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -45,14 +45,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.91;entryX=0.42;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="V2Ob9PGhF1YmmIlqd_Ju-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="436" y="988" />
-            </Array>
-            <mxPoint x="333.5" y="853.7" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.87;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V2Ob9PGhF1YmmIlqd_Ju-9" target="V2Ob9PGhF1YmmIlqd_Ju-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -72,14 +64,6 @@
             <Array as="points" />
             <mxPoint x="510" y="640" as="sourcePoint" />
             <mxPoint x="885.5" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-18" value="原图直达" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.38;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="V2Ob9PGhF1YmmIlqd_Ju-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="305" y="1204" />
-            </Array>
-            <mxPoint x="271" y="860" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-19" value="目标位置" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.05;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V2Ob9PGhF1YmmIlqd_Ju-7" target="V2Ob9PGhF1YmmIlqd_Ju-9">
