@@ -25,11 +25,6 @@
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-7" value="AI 目标检测&#xa;与追踪" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="870" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V2Ob9PGhF1YmmIlqd_Ju-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="790" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-8" value="IPC&#xa;控制中心" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="567" y="980" width="148" height="270" as="geometry" />
         </mxCell>
