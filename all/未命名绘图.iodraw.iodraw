@@ -120,6 +120,9 @@
         <mxCell id="WvOhGGkS_b-kicVOlz0p-59" value="理想信道&#xa;轻度弱网" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="205" y="-150" width="132" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-65" value="理想信道&#xa;轻度弱网" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="496.5" y="-150" width="132" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
