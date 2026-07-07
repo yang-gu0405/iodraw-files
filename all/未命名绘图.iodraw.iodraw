@@ -40,14 +40,15 @@
         <mxCell id="WvOhGGkS_b-kicVOlz0p-13" value="解析SEI 锁定目标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-460" y="-10" width="182" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-15" value="1080P 低码率流" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=20;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-1" target="WvOhGGkS_b-kicVOlz0p-3">
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-15" value="低码率流" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=20;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-1" target="WvOhGGkS_b-kicVOlz0p-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-16" value="1080P 高码率流 + SEI" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=20;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-2" target="WvOhGGkS_b-kicVOlz0p-4">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0176" relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-3" target="WvOhGGkS_b-kicVOlz0p-5">
@@ -94,8 +95,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-25" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;缓冲队列&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="221" y="107.5" width="100" height="40" as="geometry" />
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-25" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;缓冲队列&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="231" y="112.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-26" value="推流-&gt;接收站" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="425" y="667" width="120" height="53" as="geometry" />
