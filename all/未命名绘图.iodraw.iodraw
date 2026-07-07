@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-120" value="发送端" style="whiteSpace=wrap;strokeWidth=2;fontSize=50;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-280" width="770" height="1330" as="geometry" />
+        </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-119" value="信道" style="whiteSpace=wrap;strokeWidth=2;fontSize=50;verticalAlign=top;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="799" y="-280" width="251" height="1330" as="geometry" />
         </mxCell>
@@ -149,9 +152,6 @@
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XnWyaHZtzJU4fKijMDOg-116" target="XnWyaHZtzJU4fKijMDOg-116">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-120" value="发送端" style="whiteSpace=wrap;strokeWidth=2;fontSize=50;verticalAlign=top;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="39" y="-270" width="770" height="1330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
