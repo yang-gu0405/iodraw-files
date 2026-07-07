@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-120" value="发送端" style="whiteSpace=wrap;strokeWidth=2;fontSize=50;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-120" value="接收端" style="whiteSpace=wrap;strokeWidth=2;fontSize=50;verticalAlign=top;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="-280" width="770" height="1330" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-119" value="信道" style="whiteSpace=wrap;strokeWidth=2;fontSize=50;verticalAlign=top;dashed=1;" vertex="1" parent="1">
