@@ -97,9 +97,6 @@
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-51" value="轻度弱网:&#xa;背景模糊、目标高清" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="1310" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.212;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V2Ob9PGhF1YmmIlqd_Ju-11" target="V2Ob9PGhF1YmmIlqd_Ju-0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="V2Ob9PGhF1YmmIlqd_Ju-57" value="中度弱网:&#xa;高清目标图像传输" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="1400" width="253.75" height="80" as="geometry" />
         </mxCell>
