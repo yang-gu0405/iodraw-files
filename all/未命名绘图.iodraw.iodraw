@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XnWyaHZtzJU4fKijMDOg-120" value="接收端" style="whiteSpace=wrap;strokeWidth=2;fontSize=50;verticalAlign=top;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="-280" width="770" height="1330" as="geometry" />
+          <mxGeometry x="1040" y="-280" width="530" height="1330" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-119" value="信道" style="whiteSpace=wrap;strokeWidth=2;fontSize=50;verticalAlign=top;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="799" y="-280" width="251" height="1330" as="geometry" />
@@ -79,7 +79,7 @@
           <mxGeometry x="585" y="562" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-69" value="线程同步" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1265.5" y="141" width="155" height="44" as="geometry" />
+          <mxGeometry x="1230" y="70" width="155" height="44" as="geometry" />
         </mxCell>
         <mxCell id="XnWyaHZtzJU4fKijMDOg-70" value="推理队列" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="1270" y="211" width="146" height="49" as="geometry" />
