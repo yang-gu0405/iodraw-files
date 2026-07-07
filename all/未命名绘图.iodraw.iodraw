@@ -106,13 +106,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-59" value="理想信道&#xa;轻度弱网" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="205" y="-150" width="132" height="70" as="geometry" />
+          <mxGeometry x="205" y="-130" width="132" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-65" target="WvOhGGkS_b-kicVOlz0p-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-65" value="中度弱网" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="496.5" y="-150" width="132" height="70" as="geometry" />
+          <mxGeometry x="497.5" y="-130" width="132" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;" edge="1" parent="1" source="WvOhGGkS_b-kicVOlz0p-66" target="WvOhGGkS_b-kicVOlz0p-45">
           <mxGeometry relative="1" as="geometry" />
