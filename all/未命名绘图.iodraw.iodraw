@@ -25,8 +25,8 @@
         <mxCell id="WvOhGGkS_b-kicVOlz0p-9" value="融合队列" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="408" y="350" width="140" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="WvOhGGkS_b-kicVOlz0p-10" value="超分融合操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="400" y="466" width="156" height="49" as="geometry" />
+        <mxCell id="WvOhGGkS_b-kicVOlz0p-10" value="超分融合操作" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="400.5" y="410" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WvOhGGkS_b-kicVOlz0p-11" value="前端显示输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="418" y="565" width="120" height="53" as="geometry" />
