@@ -165,7 +165,12 @@
         <mxCell id="XnWyaHZtzJU4fKijMDOg-100" value="分类检测/单目标/多目标跟踪" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="158" y="110" width="342" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XnWyaHZtzJU4fKijMDOg-101" value="推理后端完成" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XnWyaHZtzJU4fKijMDOg-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="328.7142857142858" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XnWyaHZtzJU4fKijMDOg-101" value="推理后端完成同步" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="158" y="232" width="342" height="80" as="geometry" />
         </mxCell>
       </root>
